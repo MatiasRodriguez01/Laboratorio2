@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="600174ef-e4be-4d38-82b1-cd16bf78fd99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laboratorio II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/Ejemplos/Ejercicio1/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/Ejemplos/Ejercicio1/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/Ejemplos/Ejercicio2/Grupo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/Ejemplos/Ejercicio2/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/Ejemplos/Ejercicio4/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/Ejemplos/Ejercicio4/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/Ejemplos/Ejercicio5/Contenedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/Ejemplos/Ejercicio5/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/TP/Ejercicio1/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/TP/Ejercicio1/Operable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/TP/Ejercicio1/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/TP/Ejercicio2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/TP/Ejercicio2/PilaArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/TP/Ejercicio3/Alimento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/TP/Ejercicio3/Almacen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/TP/Ejercicio3/Electronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/TP/Ejercicio3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/TP/Ejercicio3/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArreglosGenericos/hola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Excepciones/Actividad1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Martes_21_marzo/EstadoCivil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Martes_21_marzo/Main_e1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Martes_21_marzo/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/Cohercion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/Cohercion/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/Dependencias/Impresora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/Dependencias/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/Dependencias/Papel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/Herencia/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/Herencia/Leon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/Herencia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/Herencia/Vaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/HerenciaDownCasting2/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/HerenciaDownCasting2/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/HerenciaDownCasting2/Upcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/HerenciaUPCasting1/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/HerenciaUPCasting1/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/HerenciaUPCasting1/UpcastingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/Parametrico/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/Parametrico/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/Sobrecarga/SobreCarga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolimorfismoYDependencias/Sobrecarga/TestSobreCarga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_1/Avion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_1/Equipaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_1/Flota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_1/Pasajero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_1/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_1/Piloto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_1/Reserva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_1/Volador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_1/Vuelo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TP_1/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agregacionEjemplo/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agregacionEjemplo/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/agregacionEjemplo/Empresa.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2duG3Bed0SqhRJl5A6POkFGaME8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArreglosGenericos.TP.Ejercicio2.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.PolimorfismoYDependencias.Cohercion.Main.executor": "Run",
+    "Application.PolimorfismoYDependencias.Herencia.Main.executor": "Run",
+    "Application.TestSobreCarga.executor": "Run",
+    "Application.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/matia/OneDrive/Documentos/PROYECTOS DE PROGRAMACION/2DO SEMESTRE/Laboratorio II",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PolimorfismoYDependencias.Herencia" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ArreglosGenericos.TP.Ejercicio2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArreglosGenericos.TP.Ejercicio2.Main" />
+      <module name="Laboratorio II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArreglosGenericos.TP.Ejercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArreglosGenericos.TP.Ejercicio3.Main" />
+      <module name="Laboratorio II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArreglosGenericos.TP.Ejercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolimorfismoYDependencias.Cohercion.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolimorfismoYDependencias.Cohercion.Main" />
+      <module name="Laboratorio II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PolimorfismoYDependencias.Cohercion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolimorfismoYDependencias.Herencia.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolimorfismoYDependencias.Herencia.Main" />
+      <module name="Laboratorio II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PolimorfismoYDependencias.Herencia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArreglosGenericos.TP.Ejercicio1.main" />
+      <module name="Laboratorio II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArreglosGenericos.TP.Ejercicio1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArreglosGenericos.TP.Ejercicio2.Main" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.PolimorfismoYDependencias.Herencia.Main" />
+        <item itemvalue="Application.PolimorfismoYDependencias.Cohercion.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="600174ef-e4be-4d38-82b1-cd16bf78fd99" name="Changes" comment="" />
+      <created>1710850358396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710850358396</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
